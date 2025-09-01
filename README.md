@@ -1,2 +1,2 @@
-# Most-holy-heart-
-A website for most holy heart school
+# Most-holy-heart-school-Dansoman
+A probational website for MHHS-Dansoman
